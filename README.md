@@ -23,7 +23,11 @@ Check out the live preview of my portfolio here:
 
 ### 4. **Tic-Tac-Toe Console Game**
    - A classic console-based Tic-Tac-Toe game built using JavaScript.
-   - Technologies: JavaScript.
+   - Technologies: Python.
+
+### 5. **LearnUp - Startup Training Institute**
+   - An advanced Django project developed for a startup training institute. It features course management, student enrollment, attendance tracking, and progress monitoring.
+   - Technologies: Django, HTML, CSS, JavaScript
 
 ## 📁 Repository Structure
 
