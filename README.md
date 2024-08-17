@@ -44,11 +44,13 @@ Here's a quick overview of the main folders and files in this repository:
    git clone https://github.com/JoyontoJoyXD/joyontojoy.git
 2. Open index.html in your browser.
    
-✨ Features
-Responsive Design: The portfolio is fully responsive and optimized for different devices.
-Modern UI/UX: A clean, user-friendly interface with interactive elements.
-Performance Optimized: Images and assets are optimized for fast loading times.
-🤝 Connect with Me
-Email: joyonto3523@gmail.com 
-Whatsapp: 01882913747
-GitHub: github.com/JoyontoJoyXD
+
+## ✨ Features
+- **Responsive Design**: The portfolio is fully responsive and optimized for different devices.
+- **Modern UI/UX**: A clean, user-friendly interface with interactive elements.
+- **Performance Optimized**: Images and assets are optimized for fast loading times.
+
+## 🤝 Connect with Me
+- **Email**: [joyonto3523@gmail.com](mailto:joyonto3523@gmail.com)
+- **WhatsApp**: [01882913747](https://wa.me/01882913747)
+- **GitHub**: [github.com/JoyontoJoyXD](https://github.com/JoyontoJoyXD)
